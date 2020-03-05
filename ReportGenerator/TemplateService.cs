@@ -11,7 +11,6 @@ namespace ReportGenerator
         /// <summary>
         /// Gets all templates from the resource file
         /// </summary>
-        /// <returns></returns>
         public static Template[] GetTemplates(Type resource)
         {
             var templates = new List<Template>();
