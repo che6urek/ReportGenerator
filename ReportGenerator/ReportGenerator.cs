@@ -47,7 +47,7 @@ namespace ReportGenerator
         }
 
         /// <summary>
-        /// Generates report elements students using the provided template
+        /// Generates students records using the provided template
         /// </summary>
         /// <returns>Records with students information</returns>
         public static string GenerateStudentsRecords(Students students, Universities universities,
