@@ -1,0 +1,114 @@
+{
+  "universities": [
+    {
+      "id": 1,
+      "name": "BSUIR"
+    },
+    {
+      "id": 2,
+      "name": "BSU"
+    },
+    {
+      "id": 3,
+      "name": "BNTU"
+    }
+  ],
+  "faculties": [
+    {
+      "id": 1,
+      "name": "FCSaN"
+    },
+    {
+      "id": 2,
+      "name": "FRaE"
+    },
+    {
+      "id": 3,
+      "name": "FIC"
+    },
+    {
+      "id": 4,
+      "name": "FP"
+    },
+    {
+      "id": 5,
+      "name": "FAMaCS"
+    },
+    {
+      "id": 6,
+      "name": "FAaT"
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "firstName": "Harlow",
+      "lastName": "Crowther",
+      "universityId": 1,
+      "facultyId": 1
+    },
+    {
+      "id": 2,
+      "firstName": "Cathy",
+      "lastName": "Rogers",
+      "universityId": 1,
+      "facultyId": 1
+    },
+    {
+      "id": 3,
+      "firstName": "Miriam",
+      "lastName": "Mckee",
+      "universityId": 1,
+      "facultyId": 2
+    },
+    {
+      "id": 4,
+      "firstName": "Terrence",
+      "lastName": "Hanson",
+      "universityId": 1,
+      "facultyId": 3
+    },
+    {
+      "id": 5,
+      "firstName": "Anum",
+      "lastName": "Reed",
+      "universityId": 2,
+      "facultyId": 5
+    },
+    {
+      "id": 6,
+      "firstName": "Jamie-Leigh",
+      "lastName": "Hanson",
+      "universityId": 2,
+      "facultyId": 4
+    },
+    {
+      "id": 7,
+      "firstName": "Clyde",
+      "lastName": "White",
+      "universityId": 2,
+      "facultyId": 5
+    },
+    {
+      "id": 8,
+      "firstName": "Anniyah",
+      "lastName": "Rayner",
+      "universityId": 2,
+      "facultyId": 5
+    },
+    {
+      "id": 9,
+      "firstName": "Taliyah",
+      "lastName": "Mackie",
+      "universityId": 3,
+      "facultyId": 6
+    },
+    {
+      "id": 10,
+      "firstName": "Farhana",
+      "lastName": "White",
+      "universityId": 3,
+      "facultyId": 6
+    }
+  ]
+}
